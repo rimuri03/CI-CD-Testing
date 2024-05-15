@@ -16,7 +16,7 @@ public class CounterTest {
 		
 		testCounter.reset();
 		
-		assertEquals(testCounter.getCount(), 11);
+		assertEquals(testCounter.getCount(), 0);
 	}
 
 	@Test
